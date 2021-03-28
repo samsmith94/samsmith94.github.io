@@ -2,7 +2,7 @@ title: Cikkeim
 description: Személyes fejlesztői blogom.
 author: sam_smith_94(void)
 github: https://github.com/samsmith94
-about: <span>&#123;</span>Samu vagyok, villamosmérnök. Fehér, cisz férfi. Legfőbb érdeklődési köröm a beágyazott rendszerek. Ezt a kis dev blogot azért hoztam létre, hogy segítsek másokat is közelebb hozni az embedded világhoz.<span>&#125;</span>
+about: <span>&#123;</span>char* intro = "Samu vagyok, villamosmérnök. Fehér, cisz férfi. Legfőbb érdeklődési köröm a beágyazott rendszerek. Ezt a kis dev blogot azért hoztam létre, hogy segítsek másokat is közelebb hozni az embedded világhoz."<span>&#125;</span>
 disqus_shortname: samsmith94
 google_analytics: UA-XXXXXXXX-Y
 
