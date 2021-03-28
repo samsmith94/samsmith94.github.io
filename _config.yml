@@ -1,0 +1,56 @@
+title: Cikkeim
+description: Személyes fejlesztői blogom.
+author: sam_smith_94(void)
+github: https://github.com/samsmith94
+about: <span>&#123;</span>Kovács Sámuel vagyok, villamosmérnök hallgató. Legfőbb érdeklődési köröm a beágyazott rendszerek. Ezt az oldalt azért hoztam létre, hogy megosszam néhány projektemet, amiken dolgozok. Ezen kívül szeretnék írni néhány oktatóanyagot is főként embedded SW/HW design témakörben.<span>&#125;</span>
+disqus_shortname: samsmith94
+google_analytics: UA-XXXXXXXX-Y
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - icon: fa-facebook
+      link: "https://www.facebook.com/samsmith094"
+#    - icon: fa-twitter
+#      link: "#"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/s%C3%A1muel-kov%C3%A1cs-5b6593157/"
+#    - icon: fa-stack-exchange
+#      link: "#"
+    - icon: fa-github
+      link: "https://github.com/samsmith94"
+
+share:
+  twitter_username: github.io
+  fb_appid: 1749788565247320
+
+urls:
+    - text: Rólam
+      url: /about/
+    - text: Projektjeim
+      url: /projects/
+#    - text: XML Feed
+#      url: /feed.xml
+
+url: "https://samsmith94.github.io"
+baseurl: ""
+paginate: 10
+per_page: 10
+paginate_path: "/page/:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']

@@ -1,0 +1,18 @@
+[
+	{
+		"slug": "smartwatch",
+		"name": "Aktivitásmérő és alvásfigyelő okosóra",
+		"image": "googlefit2-3.jpg",
+		"url": "https://github.com/samsmith94/Smartwatch",
+		"date": "Sept 2019",
+		"tags": ["stm32","kicad"]
+	},
+	{
+		"slug": "autopilot",
+		"name": "Robotpilóta és OSD fejlesztés LoRa alapú távirányítással",
+		"image": "quadboard.jpg",
+		"url": "http://www.google.com",
+		"date": "Sept 2019",
+		"tags": ["stm32","kicad","tutorial"]
+	}
+]
