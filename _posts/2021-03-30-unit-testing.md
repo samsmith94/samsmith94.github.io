@@ -16,7 +16,7 @@ Mivel elég nagy a témakör elég sok minden másról is szó lesz, például
 #### A unit tesztelésről
 Nagyon sokféle keretrendszer áll rendelkezésre
 
-![SSD1306](https://raw.githubusercontent.com/samsmith94/samsmith94.github.io/master/static/img/_posts/build.jpg)
+![Mappaszerkezet](https://raw.githubusercontent.com/samsmith94/samsmith94.github.io/master/static/img/_posts/unittesting/folder.png)
 
 ### Mappaszerkezet
 
