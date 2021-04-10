@@ -5,22 +5,22 @@ date:   2021-04-10 20:00:00 +0700
 categories: [tutorial]
 ---
 
-Ebben a posztban unit tesztelésről fogok írni, azon belül is a catch2 keretrendszer használatáról.
-Mivel elég nagy a témakör elég sok minden másról is szó lesz, például
+Ebben a posztban a unit tesztelésről fogok írni, azon belül is a catch2 keretrendszer használatáról.
+Mivel elég nagy a témakör sok minden másról is lesz szó, így például:
 
 - a mock-olásról (fff)
 - a CMake build rendszerről
 - code coverage/lefedettség mérésről (gcovr)
 - hasznos IDE bővítményekről
 
-### Kitekintés
+#### Kitekintés
 
-#### A unit tesztelésről
+##### A unit tesztelésről
 
 Nagyon sokféle keretrendszer áll rendelkezésre
 
 
-### Mappaszerkezet
+#### Mappaszerkezet
 
 ![Mappaszerkezet](https://raw.githubusercontent.com/samsmith94/samsmith94.github.io/master/static/img/_posts/unittesting/folder.png)
 
